@@ -1,0 +1,2 @@
+# MiniCord
+MiniCord, Website Chatting
